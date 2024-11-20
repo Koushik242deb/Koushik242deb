@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Koushik Debnath</h1>
 <h3 align="center">A B.Tech Student 😎</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2023/05/26/00/23/hacker-8018474_1280.png”>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushik242deb&label=Profile%20views&color=0e75b6&style=flat" alt="koushik242deb" /> </p>
 
 <p align="left"> <a href="https://twitter.com/k_1881" target="blank"><img src="https://img.shields.io/twitter/follow/k_1881?logo=twitter&style=for-the-badge" alt="k_1881" /></a> </p>
 
 - 🌱 I’m currently learning **B.Tech CS & AI**
 
-- 📫 How to reach me **koushikdebnath@0102@gmail.com**
+- 📫 How to reach me **koushikdebnath0102@gmail.com**
 
 - ⚡ Fun fact **I Think I am Funny**
 
