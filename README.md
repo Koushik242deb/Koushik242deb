@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2023/05/26/00/23/hacker-8018474_1280.png”](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Koushik Debnath</h1>
 <h3 align="center">A B.Tech Student 😎</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2023/05/26/00/23/hacker-8018474_1280.png”>
